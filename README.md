@@ -1,0 +1,1 @@
+This repository contains the implementation of various generative models, including Deep Convolutional GANs (DCGANs), Variational Autoencoders (VAEs), and Generative Adversarial Networks (GANs), for the purpose of generating high-quality anime face images.
